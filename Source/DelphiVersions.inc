@@ -1,5 +1,4 @@
 (* Delphi 10.1 Berlin / C++Builder Berlin / D24 *)
-
 {$IFDEF VER310}
    ($DEFINE DELPHI10_1}
 {$ENDIF}
