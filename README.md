@@ -1,7 +1,7 @@
 # DelphiVersions
 A Delphi Include file for Delphi version compiler directives
 
-Support for Delphi 7 - Delphi 10.1
+Support for Delphi 2007 - Delphi 10.1
 
 ##Directivies      
 
