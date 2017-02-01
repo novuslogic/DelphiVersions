@@ -1,3 +1,17 @@
+{********************************************************************}
+{                                                                    }
+{           DelphiVersions.inc                                       }
+{                                                                    }
+{           Apache License                                           }
+{           Version 2.0, January 2004                                }
+{           License at http://www.apache.org/licenses/               }
+{                                                                    }
+{                                                                    }
+{           Copyright (c) 2017 Novuslogic Software                   }
+{           http://www.novuslogic.com                                }
+{                                                                    }
+{********************************************************************} 
+
 (* Delphi 10.1 Berlin / C++Builder Berlin / D24 *)
 {$IFDEF VER310}
    ($DEFINE DELPHI10_1}
