@@ -1,12 +1,14 @@
 # DelphiVersions
 A Delphi Include file of Delphi version compiler directives
 
-Support for Delphi 2007 - Delphi 10.1
+Support for Delphi 2007 - Delphi 10.2
 
 ##Directivies      
 
 | Directivies   | Description                                             |
 | ------------- | ------------------------------------------------------- |
+| DELPHI10_2_UP | Delphi 10.1 Berlin / C++Builder Berlin / D24 or higher  |
+| DELPHI10_2    | Delphi 10.1 Berlin / C++Builder Berlin / D24            |
 | DELPHI10_1_UP | Delphi 10.1 Berlin / C++Builder Berlin / D24 or higher  |
 | DELPHI10_1    | Delphi 10.1 Berlin / C++Builder Berlin / D24            |
 | DELPHI10_UP   | Delphi 10 Seattle / C++Builder Seattle or higher / D23  |

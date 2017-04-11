@@ -14,7 +14,7 @@
 
 
 (* Delphi 10.2 Tokyo / C++Builder Berlin / D25 *)
-{$IFDEF VER310}
+{$IFDEF VER320}
    ($DEFINE DELPHI10_2}
 {$ENDIF}
 
