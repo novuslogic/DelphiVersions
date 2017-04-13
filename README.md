@@ -25,6 +25,7 @@ Support for Delphi 2007 - Delphi 10.2
 | DELPHIXE2     | Delphi XE2 / C++Builder XE2 / D16                       |
 | DELPHIXE      | Delphi XE / C++Builder XE (Win32) / D15                 |
 | DELPHI2010    | Delphi 2010 / C++Builder 2010 (Win32) / D16             |
+| DELPHI2009_UP | Delphi 2009 / C++Builder 2009 (Win32) D15 or higher     |
 | DELPHI2009    | Delphi 2009 / C++Builder 2009 (Win32) D15               |
 | DELPHI2007_1  | Delphi 2007 / C++Builder 2007 Update 1 for Win32 D14    |
 | DELPHI2007    | Delphi 2007 / C++Builder 2007 for Win32 D14             |
