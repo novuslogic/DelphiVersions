@@ -3,7 +3,7 @@ A Delphi Include file of Delphi version compiler directives
 
 Support for Delphi 2007 - Delphi 10.2
 
-##Directivies      
+## Directivies      
 
 | Directivies   | Description                                             |
 | ------------- | ------------------------------------------------------- |
