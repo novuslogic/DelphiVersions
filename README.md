@@ -7,8 +7,10 @@ Support for Delphi 2007 - Delphi 10.2
 
 | Directivies   | Description                                             |
 | ------------- | ------------------------------------------------------- |
-| DELPHI10_2_UP | Delphi 10.2 Berlin / C++Builder Berlin / D25 or higher  |
-| DELPHI10_2    | Delphi 10.2 Berlin / C++Builder Berlin / D25            |
+| DELPHI10_3_UP | Delphi 10.3 Rio / C++Builder Rio / D25 or higher        |
+| DELPHI10_3    | Delphi 10.3 Rio / C++Builder Rio / D25 or higher        |
+| DELPHI10_2_UP | Delphi 10.2 Tokyo / C++Builder Tokyo / D25 or higher    |
+| DELPHI10_2    | Delphi 10.2 Tokyo / C++Builder Tokyo / D25              |
 | DELPHI10_1_UP | Delphi 10.1 Berlin / C++Builder Berlin / D24 or higher  |
 | DELPHI10_1    | Delphi 10.1 Berlin / C++Builder Berlin / D24            |
 | DELPHI10_UP   | Delphi 10 Seattle / C++Builder Seattle or higher / D23  |
