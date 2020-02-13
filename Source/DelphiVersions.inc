@@ -7,7 +7,7 @@
 {           License at http://www.apache.org/licenses/               }
 {                                                                    }
 {                                                                    }
-{           Copyright (c) 2017 - 2018 Novuslogic Software            }
+{           Copyright (c) 2017 - 2020 Novuslogic Software            }
 {           http://www.novuslogic.com                                }
 {                                                                    }
 {********************************************************************}
