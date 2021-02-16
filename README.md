@@ -1,12 +1,14 @@
 # DelphiVersions
 A Delphi Include file of Delphi version compiler directives
 
-Support for Delphi 2007 - Delphi 10.3
+Support for Delphi 2007 - Delphi 10.4
 
 ## Directivies      
 
 | Directivies   | Description                                             |
 | ------------- | ------------------------------------------------------- |
+| DELPHI10_4_UP | Delphi 10.4 Sydney / C++Builder Sydney / D27 or higher  |
+| DELPHI10_4    | Delphi 10.4 Sydney / C++Builder Sydney / D27 or higher  |
 | DELPHI10_3_UP | Delphi 10.3 Rio / C++Builder Rio / D26 or higher        |
 | DELPHI10_3    | Delphi 10.3 Rio / C++Builder Rio / D26 or higher        |
 | DELPHI10_2_UP | Delphi 10.2 Tokyo / C++Builder Tokyo / D25 or higher    |
