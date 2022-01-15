@@ -15,7 +15,7 @@
 
 (* http://docwiki.embarcadero.com/RADStudio/Alexandria/en/Compiler_Versions *)
 
-(* Delphi 11 / C++Builder Delphi 11 Alexandria / D28)
+(* Delphi 11 / C++Builder Delphi 11 Alexandria / D28 *)
 {$IFDEF VER350}
    {$DEFINE DELPHI11}
 {$ENDIF}
