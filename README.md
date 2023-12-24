@@ -1,12 +1,14 @@
 # DelphiVersions
 A Delphi Include file of Delphi version compiler directives
 
-Support for Delphi 2007 - Delphi 11
+Support for Delphi 2007 - Delphi 12
 
 ## Directivies      
 
 | Directivies   | Description                                              |
 | ------------- | -------------------------------------------------------- |
+| DELPHI12_UP   | Delphi 12 Athens / C++Builder 12 Athens / D29 or higher  |
+| DELPHI12      | Delphi 12 Athens / C++Builder 12 Athens / D29            |
 | DELPHI11_UP   | Delphi 11 Alexandria / C++Builder Sydney / D28 or higher |
 | DELPHI11      | Delphi 11 Alexandria / C++Builder Sydney / D28           |
 | DELPHI10_4_UP | Delphi 10.4 Sydney / C++Builder Sydney / D27 or higher   |
