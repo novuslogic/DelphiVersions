@@ -6,12 +6,13 @@
 {           Version 2.0, January 2004                                }
 {           License at http://www.apache.org/licenses/               }
 {                                                                    }
-{                                                                    }
 {           Copyright (c) 2017 - 2025 Novuslogic Software            }
 {           http://www.novuslogic.com                                }
 {                                                                    }
+{           Canonical source:                                        }
+{           https://github.com/novuslogic/DelphiVersions             }
+{                                                                    }
 {********************************************************************}
-
 
 (* https://docwiki.embarcadero.com/RADStudio/Florence/en/Compiler_Versions *)
 
@@ -154,7 +155,6 @@
    {$DEFINE DELPHIXE6_UP}
    {$DEFINE DELPHI2009_UP}
 {$ENDIF}
-
 
 {$IFDEF DELPHI10_4}
    {$DEFINE DELPHI10_4_UP}
