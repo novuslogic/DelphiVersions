@@ -1,7 +1,8 @@
 # DelphiVersions
 A Delphi Include file of Delphi version compiler directives
 
-Support for Delphi 2007 - Delphi 13
+* Support for Delphi 2007 - Delphi 13
+* Support Free Pascal Compiler in Delphi Mode
 
 [https://docwiki.embarcadero.com/RADStudio/Florence/en/Compiler_Versions](https://docwiki.embarcadero.com/RADStudio/Florence/en/Compiler_Versions)
 

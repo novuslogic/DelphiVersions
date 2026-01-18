@@ -7,11 +7,12 @@
 {           License at http://www.apache.org/licenses/               }
 {                                                                    }
 {                                                                    }
-{           Copyright (c) 2017 - 2025 Novuslogic Software            }
+{           Copyright (c) 2017 - 2026 Novuslogic Software            }
 {           http://www.novuslogic.com                                }
 {                                                                    }
 {********************************************************************}
 
+// Delphi
 
 (* https://docwiki.embarcadero.com/RADStudio/Florence/en/Compiler_Versions *)
 
@@ -251,3 +252,6 @@
 {$IFDEF DELPHI2009}
   {$DEFINE DELPHI2009_UP}
 {$ENDIF}
+
+// Free Pascal Compilier
+{$IFDEF FPC}{$MODE DELPHI}{$ENDIF}
